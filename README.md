@@ -8,7 +8,7 @@ I love exploring new technologies and constantly strive to improve my skills.
 
 ## 🌱 I'm currently diving deeper into the following technologies:
 - React.js
-- Next.js
+- Tailwind CSS
 - Axios
 - Node.js 
 - Express.js
