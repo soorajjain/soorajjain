@@ -12,7 +12,6 @@ I love exploring new technologies and constantly strive to improve my skills.
 - Axios
 - Node.js 
 - Express.js
-- Tailwind CSS
 - ...and more!
 
 ## 📫 Get in Touch
