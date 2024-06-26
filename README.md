@@ -17,6 +17,7 @@ I love exploring new technologies and constantly strive to improve my skills.
 ## 📫 Get in Touch
 - LinkedIn: www.linkedin.com/in/soorajjain
 - Email: soorajjain51@gmail.com
+- Portfolio : https://soorajjain.github.io/portfolio_Soorajjain/
 
 Feel free to reach out if you have any questions or just want to connect!
 
