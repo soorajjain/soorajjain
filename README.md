@@ -6,7 +6,7 @@
 - Axios
 - Node.js 
 - Express.js
-- ...and more!
+  ...and more!
 
 ## 📫 Get in Touch
 - LinkedIn: www.linkedin.com/in/soorajjain
