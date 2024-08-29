@@ -1,11 +1,11 @@
 # Hi there, I'm Sooraj Jain 👋
 
-## 🌱 I'm currently diving deeper into the following technologies:
+## 🌱 Technologies:
 - React.js
 - Tailwind CSS
-- Axios
 - Node.js 
 - Express.js
+- Mongo DB
   ...and more!
 
 ## 📫 Get in Touch
